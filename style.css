@@ -1,0 +1,127 @@
+*
+{
+    margin: 0;
+    padding: o;
+}
+.header
+{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    background-color: #2196F3;
+    padding: 10px;
+    background-color: rgb(87, 115, 252);
+    height: 57vh;
+}
+.head-left
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Khmer OS Battambang;
+    font-size: 30px;
+}
+.head-right img
+{
+    padding-left: 10rem;
+    width: 50vh;
+    height: 55vh;
+}
+.header-big
+{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 1000vh;
+}
+.header-bottom
+{
+    padding-top: 10vh;
+    padding-left: 50px;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;   
+}
+.image{
+    background-color: white;
+    width: 58vh;
+    height: 108vh;
+    box-shadow: 8px 8px 8px rgb(59, 54, 54);
+    border-radius: 5px;
+
+}
+.image img
+{
+    padding: 11px;
+    width: 55vh;
+    height: 68vh;
+}
+h5{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: Khmer OS Battambang;
+}
+p
+{
+    font-size: 20px;
+    font-family: Khmer OS Battambang;
+}
+.back-color1
+{
+    background-color: #f32183;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.back-color2
+{
+    background-color: #f32183;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.back-color3
+{
+    background-color: #f32183;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.back-color4
+{
+    background-color: #f32183;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.back-color5
+{
+    background-color: #f32183;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.back-color6
+{
+    background-color: #f32183;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
